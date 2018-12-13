@@ -1,0 +1,13 @@
+com\chess\logic\Board.class
+com\chess\logic\Skipper.class
+com\chess\JTimChess.class
+com\chess\logic\AI.class
+com\chess\logic\Piece.class
+com\chess\logic\ChessField.class
+com\chess\logic\Kowalski.class
+com\chess\gui\Table.class
+com\chess\logic\Move.class
+com\chess\logic\Alliance.class
+com\chess\logic\ChessPattern.class
+com\chess\logic\Exceptions.class
+com\chess\logic\Position.class
